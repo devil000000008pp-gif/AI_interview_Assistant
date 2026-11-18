@@ -1,4 +1,5 @@
-import streamlit as st from groq import Groq
+import streamlit as st
+from groq import Groq
 
 st.set_page_config( page_title="Placement Practice", page_icon="🎓", layout="centered" )
 
